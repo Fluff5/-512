@@ -5,7 +5,7 @@ html, body {
   background: #faf8ef;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
-  font-size: 18px; }
+  font-size: 25px; }
 
 body {
   margin: 80px 0; }
@@ -389,30 +389,30 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-size: 40px; }
-  .tile.tile-2 .tile-inner {
+  .tile.tile-266 .tile-inner {
     background: #eee4da;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-  .tile.tile--2 .tile-inner {
+  .tile.tile--266 .tile-inner {
     background: #2f2d2b;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-  .tile.tile-4 .tile-inner {
+  .tile.tile-466 .tile-inner {
     background: #ede0c8;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-  .tile.tile--4 .tile-inner {
+  .tile.tile--466 .tile-inner {
     background: #423b2b;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
-  .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
-  .tile.tile--8 .tile-inner {
-    color: #f9f6f2;
-    background: #ae6f3a; }
-  .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
-  .tile.tile--16 .tile-inner {
-    color: #f9f6f2;
-    background: #b95b2c; }
+  .tile.tile-1 .tile-inner {
+    color: #ffffff;
+    background: #29b485; }
+  .tile.tile-2 .tile-inner {
+    color: #ffffff;
+    background: #83b429; }
+  .tile.tile-3 .tile-inner {
+    color: #ffffff;
+    background: #785415; }
+  .tile.tile-4 .tile-inner {
+    color: #ffffff;
+    background: #7f185a; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: #f67c5f; }

@@ -413,18 +413,21 @@ hr {
   .tile.tile-4 .tile-inner {
     color: #ffffff;
     background: #7f185a; }
-  .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
-  .tile.tile--32 .tile-inner {
-    color: #f9f6f2;
-    background: #c34a2f; }
-  .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
-  .tile.tile--64 .tile-inner {
-    color: #f9f6f2;
-    background: #cc3513; }
+  .tile.tile-5 .tile-inner {
+    color: #ffffff;
+    background: #811f2c; }
+  .tile.tile-6 .tile-inner {
+    color: #ffffff;
+    background: #8a4d46; }
+  .tile.tile-7 .tile-inner {
+    color: #ffffff;
+    background: #bbc071; }
+  .tile.tile-8 .tile-inner {
+    color: #ffffff;
+    background: #345a2d; }
+  .tile.tile-9 .tile-inner {
+    color: #ffffff;
+    background: #1f2c7f; }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;

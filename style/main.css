@@ -428,6 +428,42 @@ hr {
   .tile.tile-9 .tile-inner {
     color: #ffffff;
     background: #1f2c7f; }
+  .tile.tile-10 .tile-inner {
+    color: #ffffff;
+    background: #848dc6; }
+  .tile.tile-11 .tile-inner {
+    color: #ffffff;
+    background: #2c304d; }
+  .tile.tile-12 .tile-inner {
+    color: #ffffff;
+    background: #2c4d4c; }
+  .tile.tile-13 .tile-inner {
+    color: #ffffff;
+    background: #00524f; }
+  .tile.tile-14 .tile-inner {
+    color: #ffffff;
+    background: #784bb0; }
+  .tile.tile-15 .tile-inner {
+    color: #ffffff;
+    background: #944bb0; }
+  .tile.tile-16 .tile-inner {
+    color: #ffffff;
+    background: #b04b9f; }
+  .tile.tile-17 .tile-inner {
+    color: #ffffff;
+    background: #b04b76; }
+  .tile.tile-18 .tile-inner {
+    color: #ffffff;
+    background: #ff6464; }
+  .tile.tile-19 .tile-inner {
+    color: #ffffff;
+    background: #fdff64; }
+  .tile.tile-20 .tile-inner {
+    color: #0000ff;
+    background: #ffffff; }
+  .tile.tile-82 .tile-inner {
+    color: #e8ccb7;
+    background: #b68c6d; }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;

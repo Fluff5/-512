@@ -413,7 +413,13 @@ hr {
   .tile.tile-⇣ .tile-inner {
     color: #11410b;
     background: #dadee9; }
+  .tile.tile-🟀 .tile-inner {
+    color: #e2d03b;
+    background: #060f23; }
   .tile.tile-✦ .tile-inner {
+    color: #e2d03b;
+    background: #060f23; }
+  .tile.tile-🟉 .tile-inner {
     color: #e2d03b;
     background: #060f23; }
   .tile.tile-✶ .tile-inner {
@@ -423,6 +429,9 @@ hr {
     color: #e2d03b;
     background: #060f23; }
   .tile.tile-✹ .tile-inner {
+    color: #e2d03b;
+    background: #060f23; }
+  .tile.tile-✺ .tile-inner {
     color: #e2d03b;
     background: #060f23; }
   .tile.tile-1 .tile-inner {

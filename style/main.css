@@ -434,6 +434,9 @@ hr {
   .tile.tile-✺ .tile-inner {
     color: #e2d03b;
     background: #060f23; }
+  .tile.tile-0 .tile-inner {
+    color: #060f23;
+    background: #060f23; }
   .tile.tile-1 .tile-inner {
     color: #ffffff;
     background: #29b485; }
